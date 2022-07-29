@@ -12,7 +12,7 @@
     <img src="https://img.shields.io/badge/Email-9589f2?style=for-the-badge&logo=protonmail&logoColor=white" alt="Email Badge"/>
   </a>
   
-  <a href="https://www.jacobranson.com">
+  <a href="https://jacobranson.com">
     <img src="https://img.shields.io/badge/Website-white?style=for-the-badge&logo=deno&logoColor=black" alt="Website Badge"/>
   </a>
 
