@@ -133,6 +133,16 @@
   &nbsp;
   &nbsp;
   <img
+     src="https://github.com/devicons/devicon/blob/master/icons/nestjs/nestjs-plain-wordmark.svg"
+     title="NestJS"
+     alt="NestJS"
+     width="180"
+     height="180"
+  />
+  &nbsp;
+  &nbsp;
+  &nbsp;
+  <img
      src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg"
      title="AWS"
      alt="AWS"
