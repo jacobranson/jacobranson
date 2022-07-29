@@ -74,8 +74,8 @@
 <div align="center">
   <img
      src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-plain.svg"
-     title="Angular"
-     alt="Angular"
+     title="Angular 2+"
+     alt="Angular 2+"
      width="80"
      height="80"
   />
@@ -176,9 +176,9 @@
 
 <div align="center">
   <img
-     src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg"
-     title="VSCode"
-     alt="VSCode"
+     src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg"
+     title="Bash Scripting"
+     alt="Bash Scripting"
      width="80"
      height="80"
   />
@@ -196,9 +196,9 @@
   &nbsp;
   &nbsp;
   <img
-     src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg"
-     title="Bash"
-     alt="Bash"
+     src="https://github.com/devicons/devicon/blob/master/icons/redhat/redhat-plain.svg"
+     title="RHEL"
+     alt="RHEL"
      width="80"
      height="80"
   />
@@ -216,9 +216,9 @@
   &nbsp;
   &nbsp;
   <img
-     src="https://github.com/devicons/devicon/blob/master/icons/redhat/redhat-plain.svg"
-     title="RHEL"
-     alt="RHEL"
+     src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg"
+     title="VSCode"
+     alt="VSCode"
      width="80"
      height="80"
   />
@@ -228,26 +228,6 @@
 <br />
 
 <div align="center">
-  <img
-     src="https://github.com/devicons/devicon/blob/master/icons/unrealengine/unrealengine-original.svg"
-     title="Unreal Engine 5"
-     alt="Unreal Engine 5"
-     width="80"
-     height="80"
-  />
-  &nbsp;
-  &nbsp;
-  &nbsp;
-  <img
-     src="https://github.com/devicons/devicon/blob/master/icons/unity/unity-original.svg"
-     title="Unity"
-     alt="Unity"
-     width="80"
-     height="80"
-  />
-  &nbsp;
-  &nbsp;
-  &nbsp;
   <img
      src="https://github.com/devicons/devicon/blob/master/icons/godot/godot-original.svg"
      title="Godot Engine"
