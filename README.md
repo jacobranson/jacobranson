@@ -33,7 +33,11 @@
 
 <h1 align="center">About Me</h1>
 
-##### TODO
+<div align="center">
+  <p>Hi! My name is Jake. I am a full-stack developer from Philadelphia, PA.</p>
+  <p>I work at Vanguard as an Application Engineer in the Global ETF Management department.</p>
+  <p>Founder and CEO of Studio Waxwing, LLC.</p>
+</div>
 
 <h1 align="center">Languages and Tools</h1>
 
@@ -221,6 +225,49 @@
      src="https://github.com/devicons/devicon/blob/master/icons/redhat/redhat-plain.svg"
      title="RHEL"
      alt="RHEL"
+     width="80"
+     height="80"
+  />
+</div>
+
+<br />
+<br />
+
+<div align="center">
+  <img
+     src="https://github.com/devicons/devicon/blob/master/icons/unrealengine/unrealengine-original.svg"
+     title="Unreal Engine 5"
+     alt="Unreal Engine 5"
+     width="80"
+     height="80"
+  />
+  &nbsp;
+  &nbsp;
+  &nbsp;
+  <img
+     src="https://github.com/devicons/devicon/blob/master/icons/unity/unity-original.svg"
+     title="Unity"
+     alt="Unity"
+     width="80"
+     height="80"
+  />
+  &nbsp;
+  &nbsp;
+  &nbsp;
+  <img
+     src="https://github.com/devicons/devicon/blob/master/icons/godot/godot-original.svg"
+     title="Godot Engine"
+     alt="Godot Engine"
+     width="80"
+     height="80"
+  />
+  &nbsp;
+  &nbsp;
+  &nbsp;
+  <img
+     src="https://github.com/devicons/devicon/blob/master/icons/blender/blender-original.svg"
+     title="Blender"
+     alt="Blender"
      width="80"
      height="80"
   />
