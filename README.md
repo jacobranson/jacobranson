@@ -5,25 +5,19 @@
   />
 </div>
 
-<div id="website" align="center">
-  <a href="https://www.jacobranson.com">www.jacobranson.com</a>
-  <br />
-  <a href="mailto:contact@jacobranson.com">contact@jacobranson.com</a>
-</div>
-
 <br />
 
 <div id="badges" align="center">
+  <a href="mailto:contact@jacobranson.com">
+    <img src="https://img.shields.io/badge/Email-blueviolet?style=for-the-badge&logo=protonmail&logoColor=white" alt="Email Badge"/>
+  </a>
+  
+  <a href="https://www.jacobranson.com">
+    <img src="https://img.shields.io/badge/Website-white?style=for-the-badge&logo=deno&logoColor=black" alt="Website Badge"/>
+  </a>
+
   <a href="https://www.linkedin.com/in/jacobrileighranson/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  
-  <a href="">
-    <img src="https://img.shields.io/badge/Medium-white?style=for-the-badge&logo=medium&logoColor=black" alt="Medium Badge"/>
-  </a>
-  
-  <a href="">
-    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Badge"/>
   </a>
 </div>
 
