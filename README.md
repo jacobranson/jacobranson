@@ -9,7 +9,7 @@
 
 <div id="badges" align="center">
   <a href="mailto:contact@jacobranson.com">
-    <img src="https://img.shields.io/badge/Email-blueviolet?style=for-the-badge&logo=protonmail&logoColor=white" alt="Email Badge"/>
+    <img src="https://img.shields.io/badge/Email-9589f2?style=for-the-badge&logo=protonmail&logoColor=white" alt="Email Badge"/>
   </a>
   
   <a href="https://www.jacobranson.com">
@@ -22,7 +22,7 @@
 </div>
 
 <div id="views" align="center">
-  <img src="https://komarev.com/ghpvc/?username=jacobranson&style=flat-square&color=9a8fe9" alt=""/>
+  <img src="https://komarev.com/ghpvc/?username=jacobranson&style=flat-square&color=9589f2" alt=""/>
 </div>
 
 <h1 align="center">About Me</h1>
